@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f0985e6.css",
+    "main.js": "/static/js/main.7766ff5e.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/tech.jpg": "/static/media/tech.f42ecb4bc8e4c4ed24be.jpg",
+    "static/media/sunglasses.png": "/static/media/sunglasses.b88807fd3f0b1385fe90.png",
+    "static/media/heart.png": "/static/media/heart.41bdc9415a540996c8ce.png",
+    "static/media/offer.png": "/static/media/offer.fda36f2a0725ce00afa5.png",
+    "static/media/robot.png": "/static/media/robot.32f1166485b0273684a6.png",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.1dcb25a8059fe3f4791f.png",
+    "static/media/in-stock.png": "/static/media/in-stock.25618f8d429549b0e10c.png",
+    "static/media/driver.png": "/static/media/driver.3479db648dbf58c7d8a0.png",
+    "static/media/shoes.png": "/static/media/shoes.ee57893d0485d432ee7d.png",
+    "static/media/user.png": "/static/media/user.8d49e377c7c342895ec2.png",
+    "static/media/tablet.png": "/static/media/tablet.317387e24565781ffa0e.png",
+    "static/media/sweatshirt.png": "/static/media/sweatshirt.617afb5651e83f94c0f5.png",
+    "static/media/shampoo.png": "/static/media/shampoo.63d827770331bcf3a962.png",
+    "static/media/secure-payment.png": "/static/media/secure-payment.33ec8dc7269de8eaf6ca.png",
+    "static/media/profit.png": "/static/media/profit.9fe167b9fb82451317db.png",
+    "static/media/recycle-bin.png": "/static/media/recycle-bin.79932a01256b34461bc6.png",
+    "static/media/check-mark.png": "/static/media/check-mark.27d79b480a8158241acd.png",
+    "index.html": "/index.html",
+    "main.8f0985e6.css.map": "/static/css/main.8f0985e6.css.map",
+    "main.7766ff5e.js.map": "/static/js/main.7766ff5e.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f0985e6.css",
+    "static/js/main.7766ff5e.js"
+  ]
+}
